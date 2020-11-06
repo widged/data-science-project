@@ -6,10 +6,9 @@
 
 [Photos pexels](https://www.pexels.com/) - Free stock photos for commercial use. Has free API that allows you to search photos by keywords.
 
-## Finding Inspiration for Content / Examples of Presentations on your theme
+## Front-end, simple interface
 
-Where to find slideshares / presentations on your theme
+I strongly recomment what is called minimal css kits
 
-https://www.slideshare.net/
-or in google
-immigration maroc filetype:ppt
+- [spectre css](https://picturepan2.github.io/spectre/elements.html) Good look for data / science type of projects.
+- [Skeleton framework](https://skeleton-framework.github.io/)
