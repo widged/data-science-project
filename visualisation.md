@@ -20,6 +20,10 @@
 
 [A Tour Through the Visualization Zoo](https://homes.cs.washington.edu/~jheer/files/zoo/)
 
+[Visualization Design according to Munzner’s Model](https://ekipa2blog.wordpress.com/2016/04/17/visualization-design-according-to-munzners-model/)
+
+[Visualization Analysis and Design I - Tamara Munzner](https://www.youtube.com/watch?v=IKSRwGZe8Oc) (youtube video)
+
 ## Detailed learning tutorials
 
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/). The website contains the complete author manuscript before final copy-editing and other quality control.
