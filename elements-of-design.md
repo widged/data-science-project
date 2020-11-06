@@ -17,7 +17,14 @@ There is a growing ecosystem of plugins, some that let you fill visualisation de
 
 [Flaticon Icons](https://www.flaticon.com/) under a permissive attribution license
 
+- [User interface](https://www.flaticon.com/packs/search?word=user%20interface)
+- [Chart](https://www.flaticon.com/packs/search?word=chart)
+- [Avatar](https://www.flaticon.com/packs/search?word=avatar)
+- [Machine learning](https://www.flaticon.com/search?word=machine%20learning)
+
 [Freepik Graphics](https://www.freepik.com/) under a permissive attribution license
+
+- Tag [Infographic](https://www.freepik.com/free-photos-vectors/infographic)
 
 [Photos pexels](https://www.pexels.com/) - Free stock photos for commercial use. Has free API that allows you to search photos by keywords.
 
