@@ -22,7 +22,11 @@
 
 [The way of data visualisation](https://www.behance.net/gallery/65929627/1805-Data-Visualization-Infographic-Poster)
 
+[Power BI visual reference](https://www.sqlbi.com/ref/power-bi-visuals-reference/)
+
 ## Detailed learning tutorials
+
+[Data Visualization – Best Practices and Foundations](https://www.toptal.com/designers/data-visualization/data-visualization-best-practices)
 
 [What makes a data visualization memorable?](http://www.seas.harvard.edu/news/2013/10/what-makes-data-visualization-memorable)
 
@@ -33,6 +37,10 @@
 [Visualization Analysis and Design I - Tamara Munzner](https://www.youtube.com/watch?v=IKSRwGZe8Oc) (youtube video)
 
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/). The website contains the complete author manuscript before final copy-editing and other quality control.
+
+[Data visualization tips](https://www.geckoboard.com/best-practice/data-visualization-tips/)
+
+[Techniques for Data Visualization on both Mobile & Desktop](https://www.visualcinnamon.com/2019/04/mobile-vs-desktop-dataviz)
 
 ## Sites with sandboxes and code easy to fork
 
