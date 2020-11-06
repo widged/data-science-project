@@ -7,12 +7,6 @@
 The tool most professional teams use is
 [Figma](https://www.figma.com/) (free tier)
 
-There is a growing ecosystem of plugins, some that let you fill visualisation design elements directly from data
-
-- [Chart related resources in the Figma community](https://www.figma.com/community/search?model_type=hub_files&q=chart)
-- [Figma charts. Design kit for dashboards, presentations or data visualization](https://setproduct.com/charts) (warning: paying but with free preview)
--
-
 ## Visuals
 
 [Flaticon Icons](https://www.flaticon.com/) under a permissive attribution license
