@@ -43,3 +43,11 @@ Codepen has great content, but too often, you end up spending hours exploring it
 [Theory of fun for game design](https://www.theoryoffun.com/)
 
 [The Art of Game Design](https://www.schellgames.com/art-of-game-design/)
+
+## Sites with sandboxes and code easy to fork
+
+[codepen](https://codepen.io/)
+
+[glitch](https://glitch.com/)
+
+[bit](https://bit.dev/components)
