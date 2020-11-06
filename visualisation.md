@@ -2,6 +2,8 @@
 
 ## At a glance
 
+[Visualisation Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/)
+
 [Visual Vocabulary: Designing with Data](https://ft-interactive.github.io/visual-vocabulary/)
 
 [Choosing a chart](https://github.com/widged/data-for-good/wiki/Visualisation-::-Choosing-a-chart)
