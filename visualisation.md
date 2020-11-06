@@ -8,6 +8,8 @@
 
 ![](https://images.squarespace-cdn.com/content/v1/59df9853cd0f68dd29301c12/1549060966864-EYFQZ7KXLM5OTZSVUXZ6/ke17ZwdGBToddI8pDm48kMVgL8OakcqvF0Q6e--IFvx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0gmXcXvEVFTLbYX9CdVcGe4SlH46SGbVCwgffUJBD22G2pB6SgW2tqcbZyJl9QTQfQ/Visualizing+Percentages+20.jpg?format=2500w)
 
+[From data to viz](https://www.data-to-viz.com/)
+
 [Multiple views on how to choose a visualization](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc)
 
 [Visualisation Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/)
