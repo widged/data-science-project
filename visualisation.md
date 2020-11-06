@@ -24,6 +24,18 @@
 
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/). The website contains the complete author manuscript before final copy-editing and other quality control.
 
+## Sites with sandboxes and code easy to fork
+
+[observablehq](https://observablehq.com/@widged)
+
+[bl.ocks](http://bl.ocks.org/)
+
+[codepen-d3](https://codepen.io/search/pens?q=d3)
+
+[codepen-d3](https://codepen.io/search/pens?q=d3)
+
+[codepen-chart](https://codepen.io/search/pens?q=chart)
+
 ## Data types
 
 ### Percentages
