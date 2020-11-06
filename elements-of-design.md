@@ -25,6 +25,7 @@ There is a growing ecosystem of plugins, some that let you fill visualisation de
 [Freepik Graphics](https://www.freepik.com/) under a permissive attribution license
 
 - Tag [Infographic](https://www.freepik.com/free-photos-vectors/infographic)
+- [Avatars](https://www.freepik.com/search?query=avatar)
 
 [Photos pexels](https://www.pexels.com/) - Free stock photos for commercial use. Has free API that allows you to search photos by keywords.
 
