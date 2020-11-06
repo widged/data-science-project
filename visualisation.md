@@ -1,8 +1,12 @@
 # Visualisation
 
+## At a glance
+
+![](__media__/what-to-show.jpg)
+
 ![](__media__/which-visualisation.png)
 
-## At a glance
+![](https://images.squarespace-cdn.com/content/v1/59df9853cd0f68dd29301c12/1549060966864-EYFQZ7KXLM5OTZSVUXZ6/ke17ZwdGBToddI8pDm48kMVgL8OakcqvF0Q6e--IFvx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0gmXcXvEVFTLbYX9CdVcGe4SlH46SGbVCwgffUJBD22G2pB6SgW2tqcbZyJl9QTQfQ/Visualizing+Percentages+20.jpg?format=2500w)
 
 [Multiple views on how to choose a visualization](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc)
 
@@ -20,7 +24,11 @@
 
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/). The website contains the complete author manuscript before final copy-editing and other quality control.
 
-## Genres
+## Data types
+
+### Percentages
+
+[Visualizing Percentages 20 Ways](https://infonewt.com/percentages)
 
 ### Time series
 
