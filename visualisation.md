@@ -10,6 +10,8 @@
 
 [From data to viz](https://www.data-to-viz.com/)
 
+[The data visualisation catalogue](https://datavizcatalogue.com/)
+
 [Multiple views on how to choose a visualization](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc)
 
 [Visualisation Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/)
