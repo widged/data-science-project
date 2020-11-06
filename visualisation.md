@@ -16,6 +16,10 @@
 
 [Choosing a chart](https://github.com/widged/data-for-good/wiki/Visualisation-::-Choosing-a-chart)
 
+[The way of data visualisation](https://www.behance.net/gallery/65929627/1805-Data-Visualization-Infographic-Poster)
+
+## Detailed learning tutorials
+
 [What makes a data visualization memorable?](http://www.seas.harvard.edu/news/2013/10/what-makes-data-visualization-memorable)
 
 [A Tour Through the Visualization Zoo](https://homes.cs.washington.edu/~jheer/files/zoo/)
@@ -23,8 +27,6 @@
 [Visualization Design according to Munzner’s Model](https://ekipa2blog.wordpress.com/2016/04/17/visualization-design-according-to-munzners-model/)
 
 [Visualization Analysis and Design I - Tamara Munzner](https://www.youtube.com/watch?v=IKSRwGZe8Oc) (youtube video)
-
-## Detailed learning tutorials
 
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/). The website contains the complete author manuscript before final copy-editing and other quality control.
 
