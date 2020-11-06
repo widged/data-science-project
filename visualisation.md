@@ -2,13 +2,13 @@
 
 ## At a glance
 
+[Multiple views on how to choose a visualization](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc)
+
 [Visualisation Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/)
 
 [Visual Vocabulary: Designing with Data](https://ft-interactive.github.io/visual-vocabulary/)
 
 [Choosing a chart](https://github.com/widged/data-for-good/wiki/Visualisation-::-Choosing-a-chart)
-
-[Multiple views on how to choose a visualization](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc)
 
 [What makes a data visualization memorable?](http://www.seas.harvard.edu/news/2013/10/what-makes-data-visualization-memorable)
 
