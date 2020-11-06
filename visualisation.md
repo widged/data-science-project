@@ -1,5 +1,7 @@
 # Visualisation
 
+![](__media__/which-visualisation.png)
+
 ## At a glance
 
 [Multiple views on how to choose a visualization](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc)
