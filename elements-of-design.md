@@ -33,8 +33,12 @@ There is a growing ecosystem of plugins, some that let you fill visualisation de
 
 [30 Great Font Combinations For Your Next Design Project](https://digitalsynopsis.com/design/best-font-combinations-typeface-pairings-guide/)
 
-[Sans Serif vs Serif Font: Which Should You Use & When?](https://www.impactplus.com/blog/sans-serif-vs-serif-font-which-should-you-use-when#:~:text=A%20serif%20is%20a%20decorative,hence%20the%20%E2%80%9Csans%E2%80%9D).
+[Sans Serif vs Serif Font: Which Should You Use & When?](https://www.impactplus.com/blog/sans-serif-vs-serif-font-which-should-you-use-when).
 )
+
+## Colors
+
+[Color scheme generator](https://paletton.com/)
 
 ## Drawing architecture diagrams
 
