@@ -1,10 +1,16 @@
 # Elements of Design
 
+## Visuals
+
 [Flaticon Icons](https://www.flaticon.com/) under a permissive attribution license
 
 [Freepik Graphics](https://www.freepik.com/) under a permissive attribution license
 
 [Photos pexels](https://www.pexels.com/) - Free stock photos for commercial use. Has free API that allows you to search photos by keywords.
+
+## Fonts
+
+[30 Great Font Combinations For Your Next Design Project](https://digitalsynopsis.com/design/best-font-combinations-typeface-pairings-guide/)
 
 ## Front-end, simple interface
 
